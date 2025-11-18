@@ -1,4 +1,4 @@
-# 🎯 Doji Candle Identifier
+# 🎯 Doji Candle Identifier https://tradingview-livid-rho.vercel.app/
 
 A modern web application for analyzing candlestick patterns and identifying Doji formations. Built with Next.js, TypeScript, and Tailwind CSS.
 
